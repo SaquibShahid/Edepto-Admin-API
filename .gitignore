@@ -1,0 +1,7 @@
+node_modules
+public
+package-lock.json
+logs
+.env
+temp
+web
